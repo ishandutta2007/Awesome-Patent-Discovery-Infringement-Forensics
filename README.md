@@ -1,6 +1,6 @@
 # Awesome-Patent-Discovery-Infringement-Forensics
 
-# Top Patent Discovery & Infringement Forensics Tools Ecosystem
+## Top Patent Discovery & Infringement Forensics Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Patent Landscape Analysis, Infringement Detection & IP Portfolio Management*  
